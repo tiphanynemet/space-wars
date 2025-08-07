@@ -17,4 +17,4 @@ Jogo de nave espacial desenvolvido com HTML, CSS e JavaScript.
 
 ## 📌 Observação
 Projeto antigo publicado como parte do meu portfólio de aprendizado.  
-Inclui tela de **Gam**
+
